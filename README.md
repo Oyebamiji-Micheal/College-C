@@ -30,7 +30,9 @@ Description: Write a C program which accepts the name of 10 students
 
 ### 3. Reverse Sentence
 Sample Input: Sinners in the hand of angry God
+
 Sample Output: God angry of hand the in Sinners
+
 Assumption: White spaces including leading and trailing are preserved
 
 ### 4. Quadratic Equation
