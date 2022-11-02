@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vscode/tasks.json
+helloworld
+file
+Beginner/quadratic_solver
+Beginner/student_name
