@@ -19,15 +19,19 @@
 Description: Write a program which prints 'Hello World' to your lecturer.     
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/helloworld.c)
 
+
 ### 2. Student Names
 Description: Write a C program which accepts the name of 10 students    
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/student_name.c)
 
 
 ### 3. Reverse Sentence
-Sample Input: Sinners in the hand of angry God    
-Sample Output: God angry of hand the in Sinners    
+Sample Input: Sinners in the hand of angry spirit      
+Sample Output: tirips yrgna fo dnah eht ni srenniS
+constraint: Do not use any inbuilt function       
 Assumption: White spaces including leading and trailing are preserved      
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/reverse_sentence.c)
+
 
 ### 4. Quadratic Equation
 Description: Write a C program which computes the roots of a quadratic equation. Your program must allow the use of any number as coefficient.      
