@@ -27,7 +27,7 @@ Description: Write a C program which accepts the name of 10 students
 
 ### 3. Reverse Sentence
 Sample Input: Sinners in the hand of angry spirit      
-Sample Output: tirips yrgna fo dnah eht ni srenniS
+Sample Output: tirips yrgna fo dnah eht ni srenniS       
 constraint: Do not use any inbuilt function       
 Assumption: White spaces including leading and trailing are preserved      
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/reverse_sentence.c)
