@@ -41,6 +41,11 @@ Test Case3: Complex roots
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/quadratic_solver.c)
 
 
+### 5. The Walking Adam
+Question description can be found [here](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Adam%2BProgramming%2BAssignment.docx)      
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/walking_adam.c)
+
+
 <br>
 <a id='average'></a>
 
