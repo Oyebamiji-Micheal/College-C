@@ -43,7 +43,7 @@ Test Case3: Complex roots
 
 ### 5. The Walking Adam
 Question description can be found [here](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Adam%2BProgramming%2BAssignment.docx)      
-[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/walking_adam.c)
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/walking_adam_modified.c)
 
 
 <br>
