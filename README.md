@@ -46,6 +46,11 @@ Question description can be found [here](https://github.com/Oyebamiji-Micheal/Co
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/walking_adam_modified.c)
 
 
+### 6. Duplicate Files
+Question description can be found [here](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/duplicate_files_deletion.docx)      
+Solution: Pending 😌😔
+
+
 <br>
 <a id='average'></a>
 
