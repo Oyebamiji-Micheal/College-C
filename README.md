@@ -53,7 +53,7 @@ Solution: Pending 😌😔
 
 ### 7. Self Describing Numbers
 Question description can be found [here](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/duplicate_files_deletion.docx)      
-Solution: Pending 
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/self_describing_numbers.c)
 
 
 <br>
