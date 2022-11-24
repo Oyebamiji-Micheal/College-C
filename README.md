@@ -48,7 +48,7 @@ Question description can be found [here](https://github.com/Oyebamiji-Micheal/Co
 
 ### 6. Duplicate Files
 Question description can be found [here](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/duplicate_files_deletion.docx)      
-Solution: Pending 😌😔
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/duplicate_files.c)
 
 
 ### 7. Self Describing Numbers
