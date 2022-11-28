@@ -56,6 +56,10 @@ Question description can be found [here](https://github.com/Oyebamiji-Micheal/Co
 [Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/Beginner/self_describing_numbers.c)
 
 
+### 8. Multiplication Table
+Write a C program to print the first 12 x 12 multiplication table.       
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/.c)
+
 <br>
 <a id='average'></a>
 
