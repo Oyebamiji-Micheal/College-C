@@ -58,7 +58,7 @@ Question description can be found [here](https://github.com/Oyebamiji-Micheal/Co
 
 ### 8. Multiplication Table
 Write a C program to print the first 12 x 12 multiplication table.       
-[Solution]https://github.com/Oyebamiji-Micheal/College-C/blob/master/multiplication_table.c)
+[Solution](https://github.com/Oyebamiji-Micheal/College-C/blob/master/multiplication_table.c)
 
 <br>
 <a id='average'></a>
